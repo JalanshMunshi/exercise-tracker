@@ -1,4 +1,4 @@
-import mongoose, { mongo } from 'mongoose';
+const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const exerciseSchema = new Schema({
@@ -7,7 +7,7 @@ const exerciseSchema = new Schema({
         required: true
     },
     description: {
-        tpe: String,
+        type: String,
         required: true
     },
     duration: {
