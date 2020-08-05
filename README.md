@@ -1,4 +1,4 @@
-#Exercise Tracker App
+# Exercise Tracker App
 
 This project was created to learn how to create an end-to-end application and how to integrate the frontend with the backend. It was created solely for the purpose of learning a new techology so that I can work on more complex applications in the future. 
 
