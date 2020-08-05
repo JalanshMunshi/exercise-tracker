@@ -16,7 +16,7 @@ const Exercise = (props) => (
 )
 
 class ExercisesList extends Component {
-    constructor() {
+    constructor(props) {
         super(props);
 
         this.deleteExercise = this.deleteExercise.bind(this);
